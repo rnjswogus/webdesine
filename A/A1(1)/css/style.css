@@ -1,0 +1,67 @@
+@charset "utf8";
+*{
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
+    color: #333;
+}
+a{
+    display: none;
+    text-decoration: none;
+}
+.aa{
+    width: 1200px;
+    height: 100px;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+.menu{
+    width: 1000px;
+    height: 100px;
+    float: left;
+}
+.imgsl{
+    width: 1200px;
+    height: 300px;
+}
+.cc{
+    width: 1200px;
+    height: 200px;
+}
+.nogal{
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+.ban{
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+.short{
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+.dd{
+    width: 1200px;
+    height: 100px;
+}
+.logo2{
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+.copy{
+    width: 800px;
+    height: 100px;
+    float: left;
+}
+.sns{
+    width: 200px;
+    height: 100px;
+    float: left;
+}
