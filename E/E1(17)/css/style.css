@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    color: #333;
+}
+a{
+    text-decoration: none;
+    display: block;
+}
+body{
+    width: 100%;
+    height: 100vh;
+}
+.aa{
+    width: 200px;
+    height: calc(100% - 120px);
+    float: left;
+    
+}
+.logo{
+    width: 200px;
+    height: 100px;
+    background-color: #fffbca;
+}
+.menu{
+    width: 100%;
+    height: calc(100% - 100px);
+    background-color: #d5ffca;
+}
+.cc{
+    width: 400px;
+    height: calc(100% - 120px);
+    float: left;
+}
+.ban{
+    width: 400px;
+    height: 120px;
+    background-color: #caffef;
+}
+.noti{
+    width: 400px;
+    height: 290px;
+    background-color: #caf2ff;
+}
+.gal{
+    width: 400px;
+    height: 290px;
+    background-color: #cad4ff;
+}
+.link{
+    width: 100%;
+    height: 100px;
+    background-color: #ffe4ca;
+}
+.imgsl{
+    width: calc(100vw - 600px);
+    height: calc(100% - 120px);
+    background-color: #e4caff;
+    float: left;
+}
+.dd{
+    width: 100%;
+    height: 120px;
+    background-color: #ffcaca;
+    float: left;
+}
+.logo2{
+    width: 200px;
+    height: 120px;
+    float: left;
+}
+.fmenu{
+    width: calc(100% - 200px);
+    height: 60px;
+    float: left;
+}
+.copy{
+    width: calc(100% - 200px);
+    height: 60px;
+    float: left;
+}
